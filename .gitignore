@@ -1,0 +1,7 @@
+jre/
+dist/
+build/
+target/
+.settings/
+.classpath
+.project
